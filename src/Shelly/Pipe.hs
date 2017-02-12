@@ -1,4 +1,4 @@
-{-# LANGUAGE FlexibleInstances, TypeSynonymInstances, 
+{-# LANGUAGE FlexibleInstances, TypeSynonymInstances, ExtendedDefaultRules,
              TypeFamilies, ExistentialQuantification #-}
 -- | This module is a wrapper for the module "Shelly". 
 -- The only difference is a main type 'Sh'. In this module 
